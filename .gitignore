@@ -1,0 +1,9 @@
+*.orig
+*.pyc
+*.tox
+*.egg-info
+.settings/*
+docs/_build
+dist/*
+build/*
+benchagent.conf
