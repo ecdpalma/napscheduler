@@ -7,3 +7,7 @@ docs/_build
 dist/*
 build/*
 benchagent.conf
+bin/*
+include/*
+lib/*
+NotAPScheduler.egg-info/*
